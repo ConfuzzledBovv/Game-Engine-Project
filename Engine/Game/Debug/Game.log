@@ -1,0 +1,11 @@
+﻿  Alien.cpp
+  Bullet.cpp
+  Character.cpp
+  Games.cpp
+  Run.cpp
+d:\gameenginedevelopment\game-engine-project\engine\graphics\window.h(7): fatal error C1083: Cannot open include file: '/GameEngineDevelopment/Game Engine Project/Engine/Game/Games.h': No such file or directory
+  SpaceInvadersGame.cpp
+d:\gameenginedevelopment\game-engine-project\engine\game\spaceinvadersgame.cpp(43): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+d:\gameenginedevelopment\game-engine-project\engine\game\spaceinvadersgame.cpp(142): warning C4018: '<': signed/unsigned mismatch
+d:\gameenginedevelopment\game-engine-project\engine\game\spaceinvadersgame.cpp(184): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
